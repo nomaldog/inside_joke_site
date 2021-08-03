@@ -361,20 +361,20 @@ ul li {
 
 
 @media screen and (max-width:576px) { 
-	.type_text{font-size:95%;}
-	.type_title{font-size:400%;}
+	.type_text{font-size:65%;}
+	.type_title{font-size:300%;}
 }
 @media screen and (min-width:576px) and ( max-width:768px) {
-	.type_text{font-size:110%;}
-	.type_title{font-size:500%;}
+	.type_text{font-size:75%;}
+	.type_title{font-size:400%;}
 }
 @media screen and (min-width:768px) and ( max-width:992px) {
-	.type_text{font-size:130%;}
-	.type_title{font-size:600%;}
+	.type_text{font-size:100%;}
+	.type_title{font-size:500%;}
 }
 @media screen and (min-width:992px) and ( max-width:1200px) {
 	.type_text{font-size:150%;}
-	.type_title{font-size:650%;}
+	.type_title{font-size:600%;}
 }
 @media screen and (min-width:1200px) {
 	.type_text{font-size:175%;}
