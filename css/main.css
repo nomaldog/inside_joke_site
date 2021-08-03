@@ -374,7 +374,7 @@ ul li {
 }
 @media screen and (min-width:992px) and ( max-width:1200px) {
 	.type_text{font-size:150%;}
-	.type_title{font-size:600%;}
+	.type_title{font-size:500%;}
 }
 @media screen and (min-width:1200px) {
 	.type_text{font-size:175%;}
